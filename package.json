@@ -1,0 +1,15 @@
+{
+  "name": "chatters-discord-bot",
+  "version": "1.0.0",
+  "description": "This is the code for Chatters Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oller#0869",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.9.0",
+    "dotenv": "^16.0.1"
+  }
+}
